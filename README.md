@@ -2,7 +2,7 @@
 
 > Convertisseur du FCFA en differentes monnaies.
 
-##Comprend les monnaies de convertion suivante :
+## Comprend les monnaies de convertion suivante :
 * Euro [€]
 * Dirham [DH]
 
